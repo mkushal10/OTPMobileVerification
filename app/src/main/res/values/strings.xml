@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">OTP-Mobile Verification</string>
+    <string name="otp">OTP Verification</string>
+    <string name="info">We will send you an One Time Password on this mobile number.</string>
+    <string name="mobile_number">Enter Mobile Number</string>
+    <string name="country_code">+977-</string>
+    <string name="btnGet">GET OTP</string>
+    <string name="to_send">Enter the OTP sent to</string>
+    <string name="dont_recognize">Not receive the OTP</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">VERIFY</string>
 </resources>
